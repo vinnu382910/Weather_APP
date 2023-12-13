@@ -7,8 +7,8 @@ body {
 }
 
 .container {
-    background-image: url('https://t4.ftcdn.net/jpg/04/97/80/99/240_F_497809944_FMo3DO6j7XSlb9rZKOlnqaaWoJhuZXBm.jpg');
-    background-size: cover;
+    background: rgb(178, 174, 247);
+    background: linear-gradient(90deg, rgba(178, 174, 247, 1) 0%, rgba(213, 213, 240, 1) 35%, rgba(185, 226, 235, 1) 100%);
 
     max-width: 600px;
     margin: 50px auto;
